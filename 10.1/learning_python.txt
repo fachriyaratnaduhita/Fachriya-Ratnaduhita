@@ -1,0 +1,3 @@
+In Python i can build logic.
+In Python i can manage files.
+In Python i can handle errors.
